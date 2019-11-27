@@ -10,5 +10,4 @@ class Cat
 
 end
 
-maru = Cat.new
-maru.sound = "meow!"
+maru = Cat.new('Maru', "meow!")
