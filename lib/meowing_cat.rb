@@ -3,13 +3,13 @@ class Cat
    attr_accessor :name, :sound
 end
 
-def 
+def
   initialize(name, sound)
   @name = name
   @sound = sound
-end 
+end
 
-end 
+end
 
 maru = Cat.new
 maru.sound = "meow!"
